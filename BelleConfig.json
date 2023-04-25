@@ -1,0 +1,13 @@
+{
+	"token":"MTA5OTc0MzY4NzMzMzkxNjY5Mg.GayCju.xXd3rwwirLQml9V_tLffr8gSMctlKV56fuK24c",
+	"prefix":"!",
+	"youtubeApiKey": "AIzaSyCxsPs1yXbt6YoZhSq77liL7eQ6FqDBJUM",
+	"intents": [
+    "DirectMessages",
+	"Guilds",
+	"GuildBans",
+	"GuildMessages",
+	"MessageContent",
+	"GuildVoiceStates"
+  ]
+}

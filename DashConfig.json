@@ -1,0 +1,12 @@
+{
+	"token":"MTA5OTg4MDM3Mjk3Nzc5OTMwOA.GTyS_R.jNKVBzGSOFKh5EMhKjFpDJSDGfPFOYX3D1ywfQ",
+	"prefix":"##",
+	"intents": [
+    "DirectMessages",
+	"Guilds",
+	"GuildBans",
+	"GuildMessages",
+	"MessageContent",
+	"GuildVoiceStates"
+  ]
+}
